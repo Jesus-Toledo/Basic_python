@@ -1,0 +1,3 @@
+INC2001,IZZI,5.5
+INC2002,Telmex,12.3
+INC2003,Megacable,8.7
